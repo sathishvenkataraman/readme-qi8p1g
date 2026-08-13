@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sathishvenkataraman.github.io/readme-qi8p1g/sitemap.xml
